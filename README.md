@@ -85,7 +85,7 @@ Além do solicitado, foram implementadas as seguintes melhorias:
 # 🧱 Estrutura do Projeto
 
 finance-app-backend <br>
-│
+│ <br>
 ├── FinanceApp.Domain <br>
 ├── FinanceApp.Application <br>
 ├── FinanceApp.Infrastructure <br>
