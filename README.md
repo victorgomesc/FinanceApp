@@ -130,7 +130,9 @@ Update-Database
 
 ou via CLI:
 
+```src
 dotnet ef database update
+```
 
 Pressione F5 para rodar.
 
