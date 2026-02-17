@@ -123,12 +123,10 @@ finance-app-frontend<br>
 ```
 
 6. Execute as migrations:
+  - No Package Manager Console:
+  - Update-Database
 
-No Package Manager Console:
-
-Update-Database
-
-ou via CLI:
+    ou via CLI:
 
 ```src
 dotnet ef database update
