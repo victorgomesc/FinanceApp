@@ -149,18 +149,21 @@ Passos:
 
 Navegue até a pasta do frontend:
 
+```src
 cd finance-app-frontend
-
+```
 
 Instale dependências:
 
+```src
 npm install
-
+```
 
 Execute:
 
+```src
 npm run dev
-
+```
 
 Aplicação disponível em:
 
@@ -213,25 +216,3 @@ Proteção de rotas no frontend
 Victor Gomes
 Desenvolvedor Full Stack
 
-
----
-
-# 🎯 Esse README transmite:
-
-- Clareza
-- Organização
-- Domínio técnico
-- Arquitetura madura
-- Entrega além do solicitado
-
----
-
-Se quiser, posso agora:
-
-- 🔥 Deixar esse README ainda mais impactante para recrutador
-- 🎯 Adaptar ele para empresa específica
-- 📄 Gerar versão em inglês
-- 🚀 Criar seção de screenshots
-- 📦 Gerar estrutura final de entrega profissional
-
-Qual próximo passo?
