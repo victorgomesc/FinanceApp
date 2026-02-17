@@ -122,7 +122,7 @@ finance-app-frontend<br>
 }
 ```
 
-Execute as migrations:
+6. Execute as migrations:
 
 No Package Manager Console:
 
@@ -134,7 +134,7 @@ ou via CLI:
 dotnet ef database update
 ```
 
-Pressione F5 para rodar.
+7. Pressione F5 para rodar.
 
 A API abrirá em:
 
