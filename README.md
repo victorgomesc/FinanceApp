@@ -84,16 +84,16 @@ Além do solicitado, foram implementadas as seguintes melhorias:
 
 # 🧱 Estrutura do Projeto
 
-finance-app-backend
+finance-app-backend <br>
 │
-├── FinanceApp.Domain
-├── FinanceApp.Application
-├── FinanceApp.Infrastructure
-└── FinanceApp.Api
+├── FinanceApp.Domain <br>
+├── FinanceApp.Application <br>
+├── FinanceApp.Infrastructure <br>
+└── FinanceApp.Api <br>
 
-finance-app-frontend
-│
-└── Next.js + Tailwind
+finance-app-frontend<br>
+│ <br>
+└── Next.js + Tailwind <br>
 
 
 ---
