@@ -47,3 +47,4 @@ C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Appl
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Application\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Application\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Application\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Application\obj\Debug\net8.0\FinanceApp.Application.sourcelink.json

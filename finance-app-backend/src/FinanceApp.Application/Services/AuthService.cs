@@ -11,16 +11,10 @@ using Microsoft.Extensions.Options;
 
 namespace FinanceApp.Application.Services;
 
-public class AuthService
+public class AuthService(IUserRepository repository, IOptions<JwtSettings> jwtSettings)
 {
-    private readonly IUserRepository _repository;
-    private readonly JwtSettings _jwtSettings;
-
-    public AuthService(IUserRepository repository, IOptions<JwtSettings> jwtSettings)
-    {
-        _repository = repository;
-        _jwtSettings = jwtSettings.Value;
-    }
+    private readonly IUserRepository _repository = repository;
+    private readonly JwtSettings _jwtSettings = jwtSettings.Value;
 
     public async Task RegisterAsync(RegisterDto dto)
     {

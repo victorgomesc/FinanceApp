@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-import { Sidebar } from "@/components/Navbar";
+import { Sidebar } from "@/components/Sidebar";
 
 export function AppLayout({
   children,

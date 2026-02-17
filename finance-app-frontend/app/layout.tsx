@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { Sidebar } from "@/components/Navbar";
+import { Sidebar } from "@/components/Sidebar";
 import { AppLayout } from "@/components/AppLayout";
 
 const geistSans = Geist({
@@ -30,7 +30,7 @@ export default function RootLayout({
         className="flex bg-gray-100"
       >
       <AppLayout>
-        <main className="flex-1 p-5 justify-center items-center overflow-auto w-[90%]">
+        <main className="flex-1 p-5">
           {children}
         </main>
       </AppLayout>

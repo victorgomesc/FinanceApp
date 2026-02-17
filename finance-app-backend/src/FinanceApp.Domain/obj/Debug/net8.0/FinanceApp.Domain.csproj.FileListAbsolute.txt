@@ -20,3 +20,4 @@ C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Doma
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Domain\obj\Debug\net8.0\refint\FinanceApp.Domain.dll
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Domain\obj\Debug\net8.0\FinanceApp.Domain.pdb
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Domain\obj\Debug\net8.0\ref\FinanceApp.Domain.dll
+C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Domain\obj\Debug\net8.0\FinanceApp.Domain.sourcelink.json

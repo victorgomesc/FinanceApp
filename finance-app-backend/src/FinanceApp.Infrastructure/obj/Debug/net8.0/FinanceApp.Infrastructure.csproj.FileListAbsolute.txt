@@ -55,3 +55,4 @@ C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Infr
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Infrastructure\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Infrastructure\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Infrastructure\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Infrastructure\obj\Debug\net8.0\FinanceApp.Infrastructure.sourcelink.json

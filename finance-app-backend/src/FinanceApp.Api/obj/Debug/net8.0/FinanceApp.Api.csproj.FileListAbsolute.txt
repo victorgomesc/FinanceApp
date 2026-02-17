@@ -286,3 +286,4 @@ C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Api\
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Api\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Api\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
 C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Api\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\victor\Documents\www\FinanceApp\finance-app-backend\src\FinanceApp.Api\obj\Debug\net8.0\FinanceApp.Api.sourcelink.json

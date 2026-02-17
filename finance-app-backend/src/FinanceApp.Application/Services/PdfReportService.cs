@@ -4,18 +4,12 @@ using FinanceApp.Application.Common;
 
 namespace FinanceApp.Application.Services;
 
-public class PdfReportService
+public class PdfReportService(
+    ITransactionRepository repository,
+    IUserContext userContext)
 {
-    private readonly ITransactionRepository _repository;
-    private readonly IUserContext _userContext;
-
-    public PdfReportService(
-        ITransactionRepository repository,
-        IUserContext userContext)
-    {
-        _repository = repository;
-        _userContext = userContext;
-    }
+    private readonly ITransactionRepository _repository = repository;
+    private readonly IUserContext _userContext = userContext;
 
     public async Task<byte[]> GenerateReportAsync(
         DateTime start,

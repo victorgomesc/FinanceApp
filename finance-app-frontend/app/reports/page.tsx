@@ -61,7 +61,6 @@ export default function ReportsPage() {
     link.click();
   }
 
-  // 🔥 NOVA FUNÇÃO PDF
   async function exportPDF() {
     if (!start || !end) return;
 
@@ -85,10 +84,9 @@ export default function ReportsPage() {
   }
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-8 pl-10 pr-60">
       <h1 className="text-3xl font-bold">Relatórios</h1>
 
-      {/* Filtros */}
       <div className="bg-zinc-900 p-6 rounded-xl shadow-md flex gap-4 items-end">
         <div>
           <label className="text-sm text-zinc-400">Data Inicial</label>
@@ -137,7 +135,6 @@ export default function ReportsPage() {
         )}
       </div>
 
-      {/* Resumo */}
       {data.length > 0 && (
         <div className="grid grid-cols-3 gap-6">
           <div className="bg-zinc-900 p-6 rounded-xl">
@@ -163,7 +160,6 @@ export default function ReportsPage() {
         </div>
       )}
 
-      {/* Tabela */}
       {data.length > 0 && (
         <div className="bg-zinc-900 p-6 rounded-xl">
           <table className="w-full text-left">
