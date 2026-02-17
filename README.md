@@ -120,6 +120,7 @@ finance-app-frontend
 "ConnectionStrings": {
   "DefaultConnection": "Host=localhost;Port=5432;Database=FinanceApp;Username=postgres;Password=suasenha"
 }
+```
 
 Execute as migrations:
 
